@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 config:
   info: "main branch,springcloud-config/config-dev.yml,version = 1.1"
 #this is test hahha peach 艾哈 这是我测试的push
 #时间是2121
 #还不能够测试嘛？
 #这为什么不能push上去嗯？？
+=======
+server:
+  info: 这是master分支的文件,提交时间是2021-03-19,version6
+# ithis is test hahha peach
+#  info: 这是master分支的文件 提交时间是2021-03-19  
+>>>>>>> 81b148d1c74493dffdadd9e95f0793057bb2a877
